@@ -1,0 +1,12 @@
+.custom-card {
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.custom-card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
